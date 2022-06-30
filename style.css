@@ -85,7 +85,7 @@ color: #22c55e;
     padding: 15px;
     border-radius: 10px;
     font-weight: bold;
-    transition: background-color 0.3s;
+    transition:background-color 0.3s;
 }
 
 .hero__grid-content a:hover {
@@ -96,7 +96,7 @@ color: #22c55e;
     width: 100%;
     border-radius: 10px;
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8);
-    transition: rotate 0.3s;
+    transition:transform 0.3s;
 }
 
 .hero__grid-video:hover {
